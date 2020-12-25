@@ -6,7 +6,7 @@ Its a 2 player game, controlled from same Keyboard, controls given below.
 
 ### build.gradle setup
 Make sure the machine achitecture is compatible with "runtime" <br />
-Mmy machine is Linux x64 hence I used 
+My machine is Linux x64 hence I used 
 ###### runtime "org.jogamp.jogl:jogl-all:2.1.5:natives-linux-amd64"
 ###### runtime "org.jogamp.gluegen:gluegen-rt:2.1.5:natives-linux-amd64"
 
