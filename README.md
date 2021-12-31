@@ -10,6 +10,10 @@ My machine is Linux x64 hence I used
 ###### runtime "org.jogamp.jogl:jogl-all:2.1.5:natives-linux-amd64"
 ###### runtime "org.jogamp.gluegen:gluegen-rt:2.1.5:natives-linux-amd64"
 
+for other machine do this
+###### implementation group: 'org.jogamp.gluegen', name: 'gluegen-rt-main', version:'2.3.2'
+###### implementation group: 'org.jogamp.jogl', name: 'jogl-all-main', version:'2.3.2'
+
 ### Controls
 #First Player | #Second Player
 ------------ | -------------
